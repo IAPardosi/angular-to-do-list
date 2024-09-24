@@ -1,0 +1,2 @@
+def latih()
+   print("Latihan")
